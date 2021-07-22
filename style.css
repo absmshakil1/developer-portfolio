@@ -56,12 +56,12 @@ h2{
     border-radius: 10px;
 }
 #web-dev-experience{
-    border: left 7px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 }
 #full-stack-experience{
-    border: left 7px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(green,cyan);
     border-image-slice: 1;
 }
